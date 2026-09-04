@@ -3,8 +3,7 @@ def sumar(a, b):
     pass
 
 def restar(a, b):
-    # TODO: implementar resta
-    pass
+    return a - b
 
 def multiplicar(a, b):
     # TODO: implementar multiplicación
